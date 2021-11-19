@@ -3,3 +3,4 @@ print('Hello GIT')
 print()
 print()
 new_list = []
+new_line = ' '
